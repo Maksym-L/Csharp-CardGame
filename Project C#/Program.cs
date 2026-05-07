@@ -12,7 +12,6 @@ namespace Project_C_
             Player player2 = new Player("Player2", 30, "/DeckFile.txt");
             //Before "/DeckFile.txt" have to be the way where the Deck file is.
             //The file with the Deck for the game is somewhere in the folder with game.
-            //PS: Wenn Sie iergendwelche probleme damit haben werden, schreiben Sie mich ainfach an.
 
             Player playerNow;
             Player playerEnemy;
